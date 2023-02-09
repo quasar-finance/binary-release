@@ -1,0 +1,1 @@
+edd6c5f6f5ecbf2268e3677ff0eebd99aa968fa082694f43c5003f4f6073086b  quasarnoded-linux-amd64
